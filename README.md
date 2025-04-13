@@ -48,12 +48,13 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Business Devices</h1>
-        <p>Your one-stop shop for cutting-edge business tools.</p>
+        <h1>Welcome to Yasui Device</h1>
+        <p>Your cheap and reliable devices.</p>
     </header>
 
     <nav>
         <a href="#laptops">Laptops</a>
+        <a href="#laptops">Cellphones</a>
         <a href="#tablets">Tablets</a>
         <a href="#contact">Contact Us</a>
     </nav>
@@ -61,8 +62,8 @@
     <section id="laptops">
         <h2>Laptops</h2>
         <div class="product">
-            <h3>Business Pro Laptop</h3>
-            <p>High performance for all your business needs.</p>
+            <h3>Laptop</h3>
+            <p>2nd hand and cheap laptops.</p>
         </div>
         <div class="product">
             <h3>Lightweight Laptop</h3>
